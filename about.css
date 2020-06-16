@@ -1,0 +1,11 @@
+.AboutStyle{
+    
+    
+    width:100%;
+    height:300px;
+    background-color: brown;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
